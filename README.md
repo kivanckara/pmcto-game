@@ -1,6 +1,7 @@
-# CTO: Salça Olma Simülatörü
 
-Türkçe, yaklaşık beş dakikalık, 16-bit esintili bir e-para şirketi karar oyunu. Şapkalı CTO Eminem olarak Tuğba, Öykü, Sinan, Funda, Berke ve Can ile absürt finans teknolojisi krizlerini çözün. CTO olarak ofiste dolaşın, ekibin işine (ölçülü biçimde) karışın ve şirketi gün sonuna çıkarın.
+# CTO: Product Olma Simülatörü
+
+Türkçe, yaklaşık beş dakikalık, 16-bit esintili bir ofis karar oyunu. CTO olarak ofiste dolaşın, ekibin işine (ölçülü biçimde) karışın ve şirketi gün sonuna çıkarın.
 
 ## Çalıştırma
 
