@@ -1,3 +1,4 @@
+
 # CTO: Product Olma Simülatörü
 
 Türkçe, yaklaşık beş dakikalık, 16-bit esintili bir ofis karar oyunu. CTO olarak ofiste dolaşın, ekibin işine (ölçülü biçimde) karışın ve şirketi gün sonuna çıkarın.
